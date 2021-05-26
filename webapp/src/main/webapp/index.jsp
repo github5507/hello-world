@@ -7,6 +7,7 @@
 <h2> please stay at home </h2>
 <h2> please wear mask and maintain social distance </h2>
 <h2> please help each other during this pandemic </h2>
+<h2> welcome to COE </h2>
 
 
 
