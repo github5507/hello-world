@@ -9,5 +9,7 @@
 <h2> please help each other during this pandemic </h2>
 <h2> welcome to COE meeting </h2>
 <h2> welcome to python scripting </h2>
-<h2> please stay at home  </h2>
+<h2> please stay at home   </h2>
+<h2> welcome to python programming </h2>
+
 
