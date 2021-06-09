@@ -3,13 +3,6 @@
 <h2> welocme to Docker </h2>
 <h2> welcome to kubernetes </h2>
 <h2> welcome to amazon  web services </h2>
-<h2> please follow COVID-19 safety Rules </h2> 
-<h2> please stay at home </h2>
-<h2> please wear mask and maintain social distance </h2>
-<h2> please help each other during this pandemic </h2>
-<h2> welcome to COE meeting </h2>
-<h2> welcome to python scripting </h2>
-<h2> please stay at home   </h2>
-<h2> welcome to python programming </h2>
+<h2> please follow COVID-19 safety Rules </h2>
 
 
